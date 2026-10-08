@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-yahiaAlmouie-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yahiaAlmouie)
 ![Location](https://img.shields.io/badge/Location-Prague%2C%20Czech%20Republic-2563EB?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-almouie-731277271/)
 
 </div>
 
