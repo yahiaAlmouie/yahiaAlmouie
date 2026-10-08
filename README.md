@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yahia 👋
+# Hi, I'm Yahia
 
 **Computer Science Graduate · MSc Informatics Student · 42 Prague Student**
 
