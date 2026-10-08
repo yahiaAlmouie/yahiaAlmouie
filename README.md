@@ -57,7 +57,7 @@ My interests span **software development, databases, data analytics, and Linux s
 ## Education
 
 - **MSc in Informatics** — Czech University of Life Sciences Prague (CZU), *2026–present*
-- **Software Development Curriculum** — 42 Prague, *2025–present*
+- **Software Development Curriculum** — 42 Prague, *2026–present*
 - **BSc in Informatics (Computer Systems & Networks)** — Damascus University, *2015–2019*
 
 ## Goals
